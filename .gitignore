@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignora archivos de configuración con datos sensibles
+config.properties
+
+# Ignora cualquier archivo .properties (opcional, más estricto)
+*.properties
